@@ -9,56 +9,57 @@ redirect_from:
 
 {% include base_path %}
 
+Junteng Liu — first-year PhD candidate at HKUST NLP Group, Hong Kong University of Science and Technology (HKUST), supervised by Professor Junxian He; graduated from Shanghai Jiao Tong University (SJTU) in June 2024. Research focuses on natural language processing and machine learning.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science, Hong Kong University of Science and Technology (HKUST), 2024 - Present
+  * First-year PhD candidate at HKUST NLP Group
+  * PhD supervisor: Professor Junxian He
+* B.Eng., Shanghai Jiao Tong University (SJTU), 2020 - 2024 (graduated in June 2024)
+  * Previously advised by Professor Junxian He during undergraduate studies at SJTU
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* February 2025 - Present: Research Intern
+  * MINIMAX
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2024 - September 2024: Research Intern
+  * Tencent WXG
+  * Advisor: Zifei Shan
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* June 2023 - December 2023: Research Intern
+  * Shanghai AI Lab
+  * Advisor: Prof. Yu Cheng
+
+Research interests
+======
+* Natural language processing and machine learning
+  * LLM Reasoning and Reinforcement Learning
+  * Hallucination in Vision-Language Models (VLM)
+  * LLM truthfulness and Interpretability
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Natural Language Processing
+* Machine Learning
+  * LLM Reasoning and Reinforcement Learning
+  * Hallucination in Vision-Language Models (VLM)
+  * LLM truthfulness and Interpretability
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Honors and awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
+
+Contact information
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Email: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
+* GitHub: Vicent0205 ([https://github.com/Vicent0205](https://github.com/Vicent0205))
+* Google Scholar profile: [https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+* X (Twitter) account: @junteng88716710
